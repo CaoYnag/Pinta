@@ -1,4 +1,4 @@
-﻿// 
+// 
 // BaseEditEngine.cs
 //  
 // Author:
@@ -53,6 +53,7 @@ namespace Pinta.Tools
 		{
 			OpenLineCurveSeries,
 			ClosedLineCurveSeries,
+			LineString,
 			Ellipse,
 			RoundedLineSeries
 		}

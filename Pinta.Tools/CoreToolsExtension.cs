@@ -1,4 +1,4 @@
-﻿// 
+// 
 // CoreToolsExtension.cs
 //  
 // Author:
@@ -62,6 +62,7 @@ namespace Pinta.Tools
 			PintaCore.Tools.AddTool (new RecolorTool ());
 			PintaCore.Tools.AddTool (new TextTool ());
 			PintaCore.Tools.AddTool (new LineCurveTool ());
+			PintaCore.Tools.AddTool (new LineStringTool ());
 			PintaCore.Tools.AddTool (new RectangleTool ());
 			PintaCore.Tools.AddTool (new RoundedRectangleTool ());
 			PintaCore.Tools.AddTool (new EllipseTool ());
